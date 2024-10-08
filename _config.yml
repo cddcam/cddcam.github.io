@@ -12,7 +12,7 @@ title                    : "Cristiana Diaconu"
 title_separator          : "-"
 name                     : &name "Cristiana Diaconu"
 description              : &description "PhD student @ CBL, University of Cambridge"
-url                      : https://cristianadiaconu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cddcam.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cddcam/cristianadiaconu.github.io"
 
