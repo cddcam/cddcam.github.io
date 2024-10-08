@@ -11,6 +11,8 @@ One line of research concerns partial differential equation (PDE) modelling usin
 
 Another line of research focuses on neural processes (NPs) as a flexible probabilistic framework for modelling spatio-temporal data. Here, I worked on introducing inductive biases (e.g. translation equivariance) into NP architectures, as well as scaling transformer NPs to large datasets.
 
+You can also ind my publications in my [Google Scholar](https://scholar.google.com/citations?user=Ws2IoZIAAAAJ&hl=en) profile.
+
 ### Publications
 
 1. Federico Bergamin, **Cristiana Diaconu**, Aliaksandra Shysheya, Paris Perdikaris, José Miguel Hernández-Lobato, Richard E Turner, Emile Mathieu<br />
