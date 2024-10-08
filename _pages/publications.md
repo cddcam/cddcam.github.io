@@ -11,21 +11,21 @@ One line of research concerns partial differential equation (PDE) modelling usin
 
 Another line of research focuses on neural processes (NPs) as a flexible probabilistic framework for modelling spatio-temporal data. Here, I worked on introducing inductive biases (e.g. translation equivariance) into NP architectures, as well as scaling transformer NPs to large datasets.
 
-You can also ind my publications in my [Google Scholar](https://scholar.google.com/citations?user=Ws2IoZIAAAAJ&hl=en) profile.
+You can also find my publications on my [Google Scholar](https://scholar.google.com/citations?user=Ws2IoZIAAAAJ&hl=en) profile.
 
 ### Publications
 
-1. Federico Bergamin, **Cristiana Diaconu**, Aliaksandra Shysheya, Paris Perdikaris, José Miguel Hernández-Lobato, Richard E Turner, Emile Mathieu<br />
+1. Federico Bergamin\*, **Cristiana Diaconu**\*, Aliaksandra Shysheya\*, Paris Perdikaris, José Miguel Hernández-Lobato, Richard E Turner, Emile Mathieu<br />
 <span style="color:navy">On conditional diffusion models for PDE simulations</span>      
-*Accepted at the 2024 Confrence on Neural Information Processing Systems (NeurIPS)*      
-[<button type="button" class="btn btn-info" style="background-color:skyblue">Paper</button>](https://arxiv.org/pdf/2406.13488)
+*Accepted at the 2024 Conference on Neural Information Processing Systems (NeurIPS)*      
+<!-- [<button type="button" class="btn btn-info" style="background-color:skyblue">Paper</button>](https://arxiv.org/pdf/2406.13488) -->
 
-1. Matthew Ashman, **Cristiana Diaconu**, Adrian Weller, Wessel Bruinsma, Richard E Turner<br />
+1. Matthew Ashman\*, **Cristiana Diaconu**\*, Adrian Weller, Wessel Bruinsma, Richard E Turner<br />
 <span style="color:navy">Approximately Equivariant Neural Processes</span>      
-*Accepted at the 2024 Confrence on Neural Information Processing Systems (NeurIPS)*      
+*Accepted at the 2024 Conference on Neural Information Processing Systems (NeurIPS)*      
 [<button type="button" class="btn btn-info" style="background-color:skyblue">Paper</button>](https://arxiv.org/pdf/2406.13488)
 
-1. Matthew Ashman, **Cristiana Diaconu**, Adrian Weller, Richard E Turner<br />
+1. Matthew Ashman\*, **Cristiana Diaconu**\*, Adrian Weller, Richard E Turner<br />
 <span style="color:navy">In-Context In-Context Learning with Transformer Neural Processes</span>      
 *6th Symposium on Advances in Approximate Bayesian Inference (AABI), 2024*      
 [<button type="button" class="btn btn-info" style="background-color:skyblue">Paper</button>](https://openreview.net/pdf?id=N7X1QFxmin)
@@ -35,7 +35,7 @@ You can also ind my publications in my [Google Scholar](https://scholar.google.c
 *Proceedings of the 41st International Conference on Machine Learning (ICML), 2024*      
 [<button type="button" class="btn btn-info" style="background-color:skyblue">Paper</button>](https://openreview.net/pdf?id=pftXzp6Yn3)
 
-1. Federico Bergamin, **Cristiana Diaconu**, Aliaksandra Shysheya, Paris Perdikaris, José Miguel Hernández-Lobato, Richard E Turner, Emile Mathieu<br />
+1. Federico Bergamin\*, **Cristiana Diaconu**\*, Aliaksandra Shysheya\*, Paris Perdikaris, José Miguel Hernández-Lobato, Richard E Turner, Emile Mathieu<br />
 <span style="color:navy">Guided autoregressive diffusion models with applications to PDE simulation</span>      
 *ICLR 2024 Workshop on AI4DifferentialEquations In Science*      
 [<button type="button" class="btn btn-info" style="background-color:skyblue">Paper</button>](https://openreview.net/pdf?id=1avNKFEIOL)
