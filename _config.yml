@@ -21,7 +21,7 @@ repository               : "cddcam/cristianadiaconu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : 
+  avatar           : /images/cdd43_photo.jpeg
   name             : "Cristiana Diaconu"
   pronouns         : # example: "she/her"  
   bio              : "PhD student @ CBL, University of Cambridge"
