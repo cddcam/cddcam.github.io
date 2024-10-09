@@ -15,10 +15,15 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 ### Publications
 
+1. Matthew Ashman\*, **Cristiana Diaconu**\*, Eric Langezaal\*, Adrian Weller, Richard E Turner<br />
+<span style="color:navy">Gridded Transformer Neural Processes for Large Unstructured Spatio-Temporal Data</span>      
+*Under review*      
+[<button type="button" class="btn btn-info" style="background-color:skyblue">Paper</button>](https://openreview.net/forum?id=ePGheWbLPY)
+
 1. Federico Bergamin\*, **Cristiana Diaconu**\*, Aliaksandra Shysheya\*, Paris Perdikaris, José Miguel Hernández-Lobato, Richard E Turner, Emile Mathieu<br />
 <span style="color:navy">On conditional diffusion models for PDE simulations</span>      
 *Accepted at the 2024 Conference on Neural Information Processing Systems (NeurIPS)*      
-<!-- [<button type="button" class="btn btn-info" style="background-color:skyblue">Paper</button>](https://arxiv.org/pdf/2406.13488) -->
+[<button type="button" class="btn btn-info" style="background-color:skyblue">Paper</button>](https://neurips.cc/virtual/2024/poster/93694)
 
 1. Matthew Ashman\*, **Cristiana Diaconu**\*, Adrian Weller, Wessel Bruinsma, Richard E Turner<br />
 <span style="color:navy">Approximately Equivariant Neural Processes</span>      
