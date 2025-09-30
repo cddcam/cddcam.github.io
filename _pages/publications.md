@@ -15,9 +15,14 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 
 ### Publications
 
+1. Anish Dhir\*, **Cristiana Diaconu**\*, Valentinian Mihai Lungu, Richard E Turner, Mark van der Wilk<br />
+<span style="color:navy">Estimating Interventional Distributions with Uncertain Causal Graphs through Meta-Learning</span>      
+*Accepted at the 2025 Conference on Neural Information Processing Systems (NeurIPS)*      
+[<button type="button" class="btn btn-info" style="background-color:skyblue">Paper</button>](https://arxiv.org/pdf/2507.05526)
+
 1. Matthew Ashman\*, **Cristiana Diaconu**\*, Eric Langezaal\*, Adrian Weller, Richard E Turner<br />
 <span style="color:navy">Gridded Transformer Neural Processes for Large Unstructured Spatio-Temporal Data</span>      
-*Under review*      
+*Spotlight poster (top $2.6\%$) at the International Conference on Machine Learning (ICML), 2025*      
 [<button type="button" class="btn btn-info" style="background-color:skyblue">Paper</button>](https://openreview.net/forum?id=ePGheWbLPY)
 
 1. Federico Bergamin\*, **Cristiana Diaconu**\*, Aliaksandra Shysheya\*, Paris Perdikaris, José Miguel Hernández-Lobato, Richard E Turner, Emile Mathieu<br />
